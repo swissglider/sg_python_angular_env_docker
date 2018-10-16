@@ -13,6 +13,7 @@ RUN set -ex \
 RUN apt update && apt install -y --no-install-recommends \
 		nodejs \
 		yarn \
+		vim \
 	&& rm -rf /var/lib/apt/lists/*
 
 RUN set -ex \
