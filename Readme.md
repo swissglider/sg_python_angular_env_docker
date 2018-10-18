@@ -1,5 +1,7 @@
 ## SG_Python_Angular Environment Docker
 
+![Base Architecture](https://github.com/swissglider/sg_python_angular_env_docker/blob/master/Base%20Architecture.png?raw=true "Base Architecture")
+
 this is a docker for Developent Applications with:....
 
 - Angular6
